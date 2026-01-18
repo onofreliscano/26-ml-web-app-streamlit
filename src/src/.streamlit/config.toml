@@ -1,0 +1,5 @@
+# comments: Streamlit runtime configuration for cloud deployments.
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
